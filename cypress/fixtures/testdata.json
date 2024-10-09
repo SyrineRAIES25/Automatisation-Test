@@ -1,0 +1,22 @@
+{
+    "username"                  : "U1006751",
+    "password"                  : "Tt78ehuf%?77252525",
+    "line"                      : "AIL2 Packaging",
+    "orderNumber"               : "101150",
+    "batchNumber"               : "101150",
+    "OperationNum"              : "0110",
+    "Description"               : "TEST",
+    "Material"                  : "425986",
+    "Quantity"                  : "1000",
+    "Material1"                 : "425995",
+    "MaterialConversion"        : "132978",
+    "Quantity1"                 : "2000",
+    "OperationNum1"             : "2560",
+    "Date"                      : "04-03-2024",
+    "Time"                      : "10:00:00" ,
+    "orderNumber2"              : "121212",
+    "batchNumber2"              : "201010",
+    "ChangeOverType"            : "ChangeOver01",
+    "MainDashboard"             : "Shift Leader Dashboard (ZOEE_POD_SHIFT_LEAD)" , 
+    "ErrorMessage"              : "Duration cannot be greater than open speed loss"
+}
